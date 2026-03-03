@@ -7,19 +7,6 @@
 - Cómo se integra la IA generativa en flujos de trabajo.  
 - Arquitectura moderna: agentes + workflows + APIs.  
 
-## Lovable: Agentes y Generación Automática de Workflows.
-
-- Qué es Lovable y para qué sirve.  
-- Crear agentes con instrucciones avanzadas.  
-- Generar código y automatizaciones desde lenguaje natural.  
-- Integración directa con N8N y Zapier desde Lovable.  
-- Uso de Lovable para documentar y optimizar flujos.  
-
-### Casos reales:
-
-- Crear un workflow en N8N a partir de texto.  
-- Crear un agente experto en automatización.  
-
 ## Fundamentos de N8N.
 
 - Arquitectura y nodos principales.  
@@ -35,7 +22,7 @@
 - Guardar y transformar datos: JSON, SQL y Google Sheets.  
 - Errores, debugging y versines.  
 
-## ● Automatización Avanzada en N8N.
+## Automatización Avanzada en N8N.
 
 - Flujos complejos: paralelización, loops, subworkflows.  
 - Construcción de microservicios usando N8N.  
@@ -67,7 +54,19 @@
 - Conexiones con herramientas empresariales.  
 - Enviar datos a modelos de IA para análisis o resumen.  
 - Construcción de chatbots o workflows tipo CRM con IA.  
-- Integración Zapier ↔ N8N ↔ Lovable.  
+  
+## Lovable: Agentes y Generación Automática de Workflows.
+
+- Qué es Lovable y para qué sirve.  
+- Crear agentes con instrucciones avanzadas.  
+- Generar código y automatizaciones desde lenguaje natural.  
+- Integración directa con N8N y Zapier desde Lovable.  
+- Uso de Lovable para documentar y optimizar flujos.  
+
+## Casos reales:
+
+- Crear un workflow en N8N a partir de texto.  
+- Crear un agente experto en automatización.  
 
 ## Integración de Lovable + N8N + Zapier.
 
